@@ -1,1 +1,11 @@
 # CS340-Portfolio
+
+
+# How do you write programs that are maintainable, readable, and adaptable? Especially consider your work on the CRUD Python module from Project One, which you used to connect the dashboard widgets to the database in Project Two. What were the advantages of working in this way? How else could you use this CRUD Python module in the future?
+I write maintainable, readable, and adaptable programs by breaking the code into small, reusable functions and using clear naming conventions, which makes the code easier to understand and modify. The advantages of this approach include easier debugging, scalability, and quicker updates. The CRUD Python module could also be used in future projects that require database operations, such as web applications or APIs, where CRUD functionalities are needed for managing user data or other records.
+
+# How do you approach a problem as a computer scientist? Consider how you approached the database or dashboard requirements that Grazioso Salvare requested. How did your approach to this project differ from previous assignments in other courses? What techniques or strategies would you use in the future to create databases to meet other client requests?
+I approach problems by breaking them down into smaller, manageable tasks and planning the solution before coding. For Grazioso Salvare’s project, I focused on designing a clear database schema and ensuring the dashboard connected smoothly to the backend, which required more attention to structure and user interaction than previous assignments. In the future, I would use techniques like creating detailed ER diagrams, normalizing databases, and gathering thorough client requirements to ensure the database design aligns with specific business needs.
+
+# What do computer scientists do, and why does it matter? How would your work on this type of project help a company, like Grazioso Salvare, to do their work better?
+Computer scientists design and develop software solutions to solve complex problems, automate tasks, and optimize processes. My work on this project helps a company like Grazioso Salvare by streamlining data management and providing an intuitive interface for interacting with the database, which improves efficiency, decision-making, and overall productivity.
